@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+.pip-selfcheck.json
+.pytest_cache/
+.coverage
+*.log
+.mypy_cache/
+
+# Django
+*.sqlite3
+db.sqlite3
+/static/
+media/
+*.log
+*.pot
+*.pyc
+*.pyo
+node_modules/
+.env
+.secret
+
+# MERN Stack
+node_modules/
+npm-debug.log
+yarn-error.log
+.DS_Store
+.env
+build/
+coverage/
+dist/
+
+# Editor & OS-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
